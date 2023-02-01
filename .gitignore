@@ -1,2 +1,7 @@
 klipper_config/Robin_nano_4.bin
 klipper_config/klipper.bin
+klipper_config/telegram.conf
+klipper_config/*.bkp
+klipper_config/mainsail.cfg
+klipper_config/moonraker*
+klipper_config/printer-*
