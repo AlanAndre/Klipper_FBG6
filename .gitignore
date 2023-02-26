@@ -5,3 +5,4 @@ klipper_config/*.bkp
 klipper_config/mainsail.cfg
 klipper_config/moonraker*
 klipper_config/printer-*
+.idea/
